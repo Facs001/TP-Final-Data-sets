@@ -1,0 +1,72 @@
+create data base procrastinacion;
+
+use procrastinacion;
+
+create  table todo(
+	participant_id VARCHAR
+	data_source VARCHAR
+	synthetic_flag VARCHAR
+	age VARCHAR
+	age_group VARCHAR
+	gender VARCHAR
+	education_level VARCHAR
+	employment_status VARCHAR
+	occupation_category VARCHAR
+	average_sleep_hours VARCHAR
+);
+
+CREATE TABLE ocupacion(
+	ocup_codi TINYINT UNSIGNED AUTO_INCREMENT NOT NULL PRIMARY KEY,
+	ocup_desc VARCHAR(50) UNIQUE
+);
+
+CREATE TABLE educacion (
+	educa_cod TINYINT UNSIGNED AUTO_INCREMENT NOT NULL PRIMARY KEY,
+	educa_des VARCHAR(50) UNIQUE
+);
+
+CREATE TABLE estado_laboral(
+	estlab_cod TINYINT UNSIGNED AUTO_INCREMENT NOT NULL PRIMARY KEY,
+	estlab_des VARCHAR(50) UNIQUE
+);
+
+CREATE TABLE Rango_edad(
+	randad_cod TINYINT UNSIGNED AUTO_INCREMENT NOT NULL PRIMARY KEY,
+	randad_des VARCHAR(50) UNIQUE
+);
+
+CREATE TABLE generos(
+	gene_cod TINYINT UNSIGNED AUTO_INCREMENT NOT NULL PRIMARY KEY,
+	gene_des VARCHAR(50) UNIQUE
+);
+
+CREATE TABLE participantes(
+	parti_cod SMALLINT(4) UNSIGNED AUTO_INCREMENT NOT NULL PRIMARY KEY,
+	parti_id VARCHAR(10) UNIQUE,
+	parti_fuent VARCHAR(20),
+	parti_flag VARCHAR(1),
+	parti_age TINYINT(2) UNSIGNED NOT NULL,
+	parti_ash DECIMAL(1,1) NOT NULL,
+	
+	parti_gen TINYINT UNSIGNED,
+	parti_ocu TINYINT UNSIGNED,
+	parti_esla TINYINT UNSIGNED,
+	parti_edu TINYINT UNSIGNED,
+	parti_rang TINYINT UNSIGNED,
+	
+	FOREIGN KEY (parti_gen) REFERENCES generos(gene_cod),
+	FOREIGN KEY (parti_ocu) REFERENCES ocupacion(ocup_codi),
+	FOREIGN KEY (parti_esla) REFERENCES estado_laboral(estlab_cod),
+	FOREIGN KEY (parti_edu) REFERENCES educacion(educa_cod),
+	FOREIGN KEY (parti_rang) REFERENCES Rango_edad(randad_cod)
+);
+INSERT IGNORE INTO ocupacion (ocup_desc)
+SELECT (occupation_category) FROM todo;
+
+hacer esto para reemplazar las desc con id
+UPDATE todo
+JOIN ocupacion ON todo.occupation_category = ocupacion.ocup_desc
+SET todo.occupation_category = ocupacion.ocup_codi
+WHERE todo.occupation_category = ocupacion.ocup_desc
+
+luego hacer el alter table
