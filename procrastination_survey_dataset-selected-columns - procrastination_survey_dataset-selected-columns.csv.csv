@@ -1,0 +1,308 @@
+participant_id,data_source,synthetic_flag,age,age_group,gender,education_level,employment_status,occupation_category,average_sleep_hours
+P0001,synthetic_ai,1,19,18-20,Male,Undergraduate,Student,Education,6.5
+P0002,synthetic_ai,1,34,30-39,Female,Postgraduate,Full-time employed,Healthcare,7
+P0003,synthetic_ai,1,22,21-24,Female,Undergraduate,Student,Education,6
+P0004,synthetic_ai,1,45,40-49,Male,Undergraduate,Full-time employed,Technology,7.5
+P0005,synthetic_ai,1,28,25-29,Non-binary,Postgraduate,Full-time employed,Research,6.5
+P0006,synthetic_ai,1,62,60+,Female,Undergraduate,Retired,Other,8
+P0007,synthetic_ai,1,25,25-29,Male,Undergraduate,Full-time employed,Finance,6
+P0008,synthetic_ai,1,31,30-39,Female,Postgraduate,Self-employed,Creative,7
+P0009,synthetic_ai,1,20,18-20,Male,High school,Student,Education,6
+P0010,synthetic_ai,1,52,50-59,Male,Postgraduate,Full-time employed,Government,7.5
+P0011,synthetic_ai,1,27,25-29,Female,Undergraduate,Full-time employed,Education,7
+P0012,synthetic_ai,1,38,30-39,Male,Doctoral,Full-time employed,Research,6.5
+P0013,synthetic_ai,1,23,21-24,Female,Undergraduate,Part-time employed,Retail,5.5
+P0014,synthetic_ai,1,47,40-49,Female,Postgraduate,Full-time employed,Healthcare,7
+P0015,synthetic_ai,1,29,25-29,Male,Postgraduate,Full-time employed,Technology,6.5
+P0016,synthetic_ai,1,65,60+,Male,High school,Retired,Other,8.5
+P0017,synthetic_ai,1,33,30-39,Female,Undergraduate,Full-time employed,Business,7
+P0018,synthetic_ai,1,21,21-24,Male,Undergraduate,Student,Education,6
+P0019,synthetic_ai,1,55,50-59,Female,Postgraduate,Full-time employed,Education,7.5
+P0020,synthetic_ai,1,26,25-29,Non-binary,Postgraduate,Freelancer,Creative,6.5
+,,,,,,,,,
+P0021,synthetic_ai,1,41,40-49,Male,Undergraduate,Full-time employed,Engineering,7
+P0022,synthetic_ai,1,19,18-20,Female,High school,Student,Education,7
+P0023,synthetic_ai,1,37,30-39,Male,Doctoral,Full-time employed,Research,6
+P0024,synthetic_ai,1,58,50-59,Female,Undergraduate,Part-time employed,Retail,7
+P0025,synthetic_ai,1,24,21-24,Male,Undergraduate,Job seeker,Other,6.5
+P0026,synthetic_ai,1,43,40-49,Female,Postgraduate,Full-time employed,Finance,7
+P0027,synthetic_ai,1,30,30-39,Male,Undergraduate,Full-time employed,Hospitality,6.5
+P0028,synthetic_ai,1,18,18-20,Female,High school,Student,Education,6.5
+P0029,synthetic_ai,1,50,50-59,Male,Postgraduate,Full-time employed,Technology,7
+P0030,synthetic_ai,1,35,30-39,Female,Undergraduate,Self-employed,Business,7.5
+P0031,synthetic_ai,1,22,21-24,Male,Undergraduate,Student,Education,5.5
+P0032,synthetic_ai,1,46,40-49,Female,Postgraduate,Full-time employed,Healthcare,7.5
+P0033,synthetic_ai,1,28,25-29,Male,Undergraduate,Full-time employed,Manufacturing,6.5
+P0034,synthetic_ai,1,67,60+,Female,High school,Retired,Other,8
+P0035,synthetic_ai,1,32,30-39,Male,Postgraduate,Freelancer,Technology,6.5
+P0036,synthetic_ai,1,20,18-20,Female,High school,Student,Education,6
+P0037,synthetic_ai,1,53,50-59,Male,Undergraduate,Full-time employed,Government,7.5
+P0038,synthetic_ai,1,27,25-29,Female,Postgraduate,Full-time employed,Healthcare,7
+P0039,synthetic_ai,1,42,40-49,Male,Undergraduate,Full-time employed,Engineering,7
+P0040,synthetic_ai,1,24,21-24,Female,Undergraduate,Part-time employed,Hospitality,5.5
+P0041,synthetic_ai,1,60,60+,Female,Undergraduate,Part-time employed,Education,7.5
+P0042,synthetic_ai,1,36,30-39,Male,Doctoral,Full-time employed,Research,6.5
+P0043,synthetic_ai,1,23,21-24,Male,Diploma,Job seeker,Other,6.5
+P0044,synthetic_ai,1,48,40-49,Female,Postgraduate,Full-time employed,Healthcare,7
+P0045,synthetic_ai,1,29,25-29,Male,Undergraduate,Full-time employed,Technology,6
+P0046,synthetic_ai,1,57,50-59,Female,Undergraduate,Full-time employed,Education,7.5
+P0047,synthetic_ai,1,26,25-29,Female,Undergraduate,Full-time employed,Finance,6.5
+P0048,synthetic_ai,1,39,30-39,Male,Undergraduate,Full-time employed,Business,7
+P0049,synthetic_ai,1,21,21-24,Female,Undergraduate,Student,Education,6
+P0050,synthetic_ai,1,44,40-49,Male,Postgraduate,Full-time employed,Technology,7
+P0051,synthetic_ai,1,31,30-39,Female,Postgraduate,Self-employed,Creative,7
+P0052,synthetic_ai,1,68,60+,Male,High school,Retired,Other,8.5
+P0053,synthetic_ai,1,25,25-29,Male,Undergraduate,Freelancer,Creative,6
+P0054,synthetic_ai,1,49,40-49,Female,Undergraduate,Full-time employed,Government,7
+P0055,synthetic_ai,1,22,21-24,Male,Undergraduate,Student,Education,5.5
+P0056,synthetic_ai,1,34,30-39,Female,Postgraduate,Full-time employed,Healthcare,7
+P0057,synthetic_ai,1,72,60+,Female,Undergraduate,Retired,Other,8
+P0058,synthetic_ai,1,27,25-29,Male,Diploma,Full-time employed,Manufacturing,6.5
+P0059,synthetic_ai,1,33,30-39,Female,Undergraduate,Full-time employed,Business,7
+P0060,synthetic_ai,1,19,18-20,Male,High school,Student,Education,6.5
+,,,,,,,,,
+P0061,synthetic_ai,1,45,40-49,Female,Postgraduate,Full-time employed,Finance,7.5
+P0062,synthetic_ai,1,23,21-24,Female,Undergraduate,Student,Education,6
+P0063,synthetic_ai,1,38,30-39,Male,Undergraduate,Full-time employed,Retail,6.5
+P0064,synthetic_ai,1,54,50-59,Female,Postgraduate,Full-time employed,Healthcare,7.5
+P0065,synthetic_ai,1,29,25-29,Non-binary,Postgraduate,Full-time employed,Technology,6.5
+P0066,synthetic_ai,1,61,60+,Male,Undergraduate,Retired,Other,8.5
+P0067,synthetic_ai,1,26,25-29,Male,Undergraduate,Full-time employed,Engineering,6.5
+P0068,synthetic_ai,1,35,30-39,Female,Undergraduate,Self-employed,Creative,7
+P0069,synthetic_ai,1,42,40-49,Male,Doctoral,Full-time employed,Research,6.5
+P0070,synthetic_ai,1,20,18-20,Female,High school,Student,Education,6
+P0071,synthetic_ai,1,47,40-49,Female,Postgraduate,Full-time employed,Government,7
+P0072,synthetic_ai,1,24,21-24,Male,Diploma,Job seeker,Other,6
+P0073,synthetic_ai,1,52,50-59,Male,Postgraduate,Full-time employed,Technology,7
+P0074,synthetic_ai,1,30,30-39,Female,Undergraduate,Full-time employed,Education,7
+P0075,synthetic_ai,1,18,18-20,Male,High school,Student,Education,6.5
+P0076,synthetic_ai,1,40,40-49,Female,Postgraduate,Full-time employed,Healthcare,7.5
+P0077,synthetic_ai,1,28,25-29,Male,Postgraduate,Full-time employed,Finance,7
+P0078,synthetic_ai,1,63,60+,Female,Diploma,Retired,Other,8
+P0079,synthetic_ai,1,33,30-39,Male,Undergraduate,Freelancer,Technology,6.5
+P0080,synthetic_ai,1,21,21-24,Female,Undergraduate,Student,Education,5.5
+P0081,synthetic_ai,1,46,40-49,Male,Undergraduate,Full-time employed,Engineering,7.5
+P0082,synthetic_ai,1,25,25-29,Female,Diploma,Part-time employed,Hospitality,5.5
+P0083,synthetic_ai,1,37,30-39,Female,Postgraduate,Full-time employed,Research,7
+P0084,synthetic_ai,1,55,50-59,Male,Postgraduate,Full-time employed,Government,7.5
+P0085,synthetic_ai,1,22,21-24,Male,Undergraduate,Student,Education,6
+P0086,synthetic_ai,1,43,40-49,Female,Undergraduate,Full-time employed,Finance,7
+P0087,synthetic_ai,1,27,25-29,Male,Undergraduate,Full-time employed,Technology,6.5
+P0088,synthetic_ai,1,48,40-49,Female,Postgraduate,Full-time employed,Healthcare,7.5
+P0089,synthetic_ai,1,31,30-39,Male,Diploma,Full-time employed,Retail,6.5
+P0090,synthetic_ai,1,19,18-20,Female,High school,Student,Education,6.5
+P0091,synthetic_ai,1,58,50-59,Male,Undergraduate,Full-time employed,Manufacturing,7
+P0092,synthetic_ai,1,26,25-29,Female,Undergraduate,Full-time employed,Business,6.5
+P0093,synthetic_ai,1,41,40-49,Male,Postgraduate,Full-time employed,Technology,7
+P0094,synthetic_ai,1,23,21-24,Male,Undergraduate,Student,Education,5.5
+P0095,synthetic_ai,1,36,30-39,Female,Doctoral,Full-time employed,Research,7
+P0096,synthetic_ai,1,50,50-59,Female,Undergraduate,Homemaker/caregiver,Other,8
+P0097,synthetic_ai,1,28,25-29,Male,Undergraduate,Full-time employed,Hospitality,6.5
+P0098,synthetic_ai,1,44,40-49,Female,Postgraduate,Full-time employed,Healthcare,7
+P0099,synthetic_ai,1,32,30-39,Male,Undergraduate,Freelancer,Creative,6.5
+P0100,synthetic_ai,1,66,60+,Male,High school,Retired,Other,8.5
+,,,,,,,,,
+P0101,synthetic_ai,1,24,21-24,Female,Undergraduate,Part-time employed,Retail,5.5
+P0102,synthetic_ai,1,39,30-39,Male,Postgraduate,Full-time employed,Technology,7
+P0103,synthetic_ai,1,54,50-59,Female,Undergraduate,Full-time employed,Education,7.5
+P0104,synthetic_ai,1,22,21-24,Male,Undergraduate,Student,Education,5.5
+P0105,synthetic_ai,1,46,40-49,Female,Postgraduate,Full-time employed,Healthcare,7
+P0106,synthetic_ai,1,27,25-29,Male,Postgraduate,Full-time employed,Finance,7
+P0107,synthetic_ai,1,35,30-39,Female,Undergraduate,Self-employed,Business,7
+P0108,synthetic_ai,1,60,60+,Female,Undergraduate,Retired,Other,8
+P0109,synthetic_ai,1,30,30-39,Male,Undergraduate,Full-time employed,Engineering,7
+P0110,synthetic_ai,1,21,21-24,Female,Undergraduate,Student,Education,6
+P0111,synthetic_ai,1,48,40-49,Male,Postgraduate,Full-time employed,Technology,7
+P0112,synthetic_ai,1,25,25-29,Female,Undergraduate,Freelancer,Creative,6
+P0113,synthetic_ai,1,42,40-49,Female,Doctoral,Full-time employed,Research,7
+P0114,synthetic_ai,1,19,18-20,Male,High school,Student,Education,6
+P0115,synthetic_ai,1,53,50-59,Female,Postgraduate,Full-time employed,Healthcare,7.5
+P0116,synthetic_ai,1,29,25-29,Male,Undergraduate,Full-time employed,Government,6.5
+P0117,synthetic_ai,1,34,30-39,Female,Undergraduate,Full-time employed,Retail,6.5
+P0118,synthetic_ai,1,69,60+,Male,Diploma,Retired,Other,8.5
+P0119,synthetic_ai,1,26,25-29,Female,Postgraduate,Full-time employed,Technology,6.5
+P0120,synthetic_ai,1,38,30-39,Male,Undergraduate,Full-time employed,Manufacturing,6.5
+P0121,synthetic_ai,1,20,18-20,Female,High school,Student,Education,6.5
+P0122,synthetic_ai,1,45,40-49,Female,Postgraduate,Full-time employed,Finance,7.5
+P0123,synthetic_ai,1,23,21-24,Male,Undergraduate,Student,Education,5.5
+P0124,synthetic_ai,1,37,30-39,Female,Postgraduate,Full-time employed,Healthcare,7
+P0125,synthetic_ai,1,64,60+,Female,Undergraduate,Retired,Other,8
+P0126,synthetic_ai,1,28,25-29,Male,Diploma,Full-time employed,Hospitality,6.5
+P0127,synthetic_ai,1,43,40-49,Male,Undergraduate,Full-time employed,Engineering,7
+P0128,synthetic_ai,1,22,21-24,Female,Diploma,Part-time employed,Retail,5.5
+P0129,synthetic_ai,1,56,50-59,Male,Postgraduate,Full-time employed,Government,7.5
+P0130,synthetic_ai,1,31,30-39,Female,Undergraduate,Full-time employed,Business,7
+P0131,synthetic_ai,1,18,18-20,Male,High school,Student,Education,6.5
+P0132,synthetic_ai,1,49,40-49,Female,Undergraduate,Full-time employed,Healthcare,7
+P0133,synthetic_ai,1,26,25-29,Male,Undergraduate,Full-time employed,Technology,6.5
+P0134,synthetic_ai,1,33,30-39,Female,Postgraduate,Self-employed,Creative,7
+P0135,synthetic_ai,1,71,60+,Female,High school,Retired,Other,8
+P0136,synthetic_ai,1,27,25-29,Male,Diploma,Full-time employed,Manufacturing,6
+P0137,synthetic_ai,1,40,40-49,Male,Undergraduate,Full-time employed,Business,7
+P0138,synthetic_ai,1,24,21-24,Female,Undergraduate,Student,Education,5.5
+P0139,synthetic_ai,1,51,50-59,Male,Postgraduate,Full-time employed,Technology,7
+P0140,synthetic_ai,1,36,30-39,Female,Doctoral,Full-time employed,Research,7
+,,,,,,,,,
+P0141,synthetic_ai,1,29,25-29,Male,Undergraduate,Full-time employed,Hospitality,6.5
+P0142,synthetic_ai,1,47,40-49,Female,Postgraduate,Full-time employed,Healthcare,7.5
+P0143,synthetic_ai,1,20,18-20,Male,High school,Student,Education,5.5
+P0144,synthetic_ai,1,32,30-39,Female,Undergraduate,Freelancer,Creative,6.5
+P0145,synthetic_ai,1,58,50-59,Male,Postgraduate,Full-time employed,Government,7.5
+P0146,synthetic_ai,1,26,25-29,Female,Undergraduate,Full-time employed,Finance,6.5
+P0147,synthetic_ai,1,44,40-49,Male,Undergraduate,Full-time employed,Technology,7
+P0148,synthetic_ai,1,22,21-24,Female,Undergraduate,Student,Education,6
+P0149,synthetic_ai,1,39,30-39,Male,Postgraduate,Full-time employed,Research,7
+P0150,synthetic_ai,1,55,50-59,Female,Postgraduate,Full-time employed,Education,7.5
+P0151,synthetic_ai,1,21,21-24,Male,Undergraduate,Student,Education,5.5
+P0152,synthetic_ai,1,48,40-49,Female,Postgraduate,Full-time employed,Healthcare,7
+P0153,synthetic_ai,1,27,25-29,Male,Undergraduate,Full-time employed,Engineering,7
+P0154,synthetic_ai,1,35,30-39,Female,Undergraduate,Self-employed,Business,7.5
+P0155,synthetic_ai,1,63,60+,Male,Undergraduate,Retired,Other,8.5
+P0156,synthetic_ai,1,30,30-39,Female,Postgraduate,Full-time employed,Healthcare,7
+P0157,synthetic_ai,1,23,21-24,Female,Undergraduate,Student,Education,6
+P0158,synthetic_ai,1,44,40-49,Male,Doctoral,Full-time employed,Research,6.5
+P0159,synthetic_ai,1,57,50-59,Female,Undergraduate,Full-time employed,Education,7.5
+P0160,synthetic_ai,1,19,18-20,Male,High school,Student,Education,6.5
+P0161,synthetic_ai,1,37,30-39,Male,Undergraduate,Full-time employed,Finance,7
+P0162,synthetic_ai,1,25,25-29,Female,Postgraduate,Full-time employed,Technology,6.5
+P0163,synthetic_ai,1,50,50-59,Male,Undergraduate,Full-time employed,Government,7.5
+P0164,synthetic_ai,1,28,25-29,Female,Undergraduate,Full-time employed,Retail,6.5
+P0165,synthetic_ai,1,41,40-49,Male,Postgraduate,Full-time employed,Healthcare,7
+P0166,synthetic_ai,1,24,21-24,Male,Undergraduate,Part-time employed,Hospitality,5.5
+P0167,synthetic_ai,1,62,60+,Female,Diploma,Retired,Other,8
+P0168,synthetic_ai,1,34,30-39,Male,Undergraduate,Freelancer,Technology,6.5
+P0169,synthetic_ai,1,46,40-49,Female,Undergraduate,Full-time employed,Education,7
+P0170,synthetic_ai,1,21,21-24,Male,Undergraduate,Student,Education,6
+P0171,synthetic_ai,1,52,50-59,Female,Postgraduate,Full-time employed,Healthcare,7.5
+P0172,synthetic_ai,1,29,25-29,Male,Diploma,Full-time employed,Hospitality,6.5
+P0173,synthetic_ai,1,38,30-39,Female,Postgraduate,Full-time employed,Finance,7
+P0174,synthetic_ai,1,65,60+,Male,High school,Retired,Other,8.5
+P0175,synthetic_ai,1,27,25-29,Female,Undergraduate,Full-time employed,Technology,6.5
+P0176,synthetic_ai,1,43,40-49,Male,Undergraduate,Full-time employed,Business,7
+P0177,synthetic_ai,1,22,21-24,Female,Undergraduate,Student,Education,5.5
+P0178,synthetic_ai,1,48,40-49,Male,Doctoral,Full-time employed,Research,6.5
+P0179,synthetic_ai,1,33,30-39,Female,Undergraduate,Full-time employed,Retail,6.5
+P0180,synthetic_ai,1,59,50-59,Male,Undergraduate,Full-time employed,Manufacturing,7
+,,,,,,,,,
+P0181,synthetic_ai,1,24,21-24,Female,Undergraduate,Job seeker,Other,6
+P0182,synthetic_ai,1,41,40-49,Female,Postgraduate,Full-time employed,Finance,7.5
+P0183,synthetic_ai,1,18,18-20,Male,High school,Student,Education,6
+P0184,synthetic_ai,1,53,50-59,Male,Postgraduate,Full-time employed,Technology,7
+P0185,synthetic_ai,1,31,30-39,Female,Doctorate,Full-time employed,Research,7
+P0186,synthetic_ai,1,26,25-29,Male,Undergraduate,Full-time employed,Engineering,6.5
+P0187,synthetic_ai,1,44,40-49,Female,Undergraduate,Full-time employed,Healthcare,7
+P0188,synthetic_ai,1,20,18-20,Female,High school,Student,Education,6.5
+P0189,synthetic_ai,1,38,30-39,Male,Postgraduate,Full-time employed,Finance,7
+P0190,synthetic_ai,1,29,25-29,Female,Undergraduate,Freelancer,Creative,6
+P0191,synthetic_ai,1,56,50-59,Male,Postgraduate,Full-time employed,Government,7.5
+P0192,synthetic_ai,1,23,21-24,Female,Undergraduate,Student,Education,5.5
+P0193,synthetic_ai,1,47,40-49,Male,Undergraduate,Full-time employed,Technology,7
+P0194,synthetic_ai,1,34,30-39,Female,Postgraduate,Self-employed,Creative,7
+P0195,synthetic_ai,1,67,60+,Female,High school,Retired,Other,8
+P0196,synthetic_ai,1,25,25-29,Male,Undergraduate,Full-time employed,Hospitality,6.5
+P0197,synthetic_ai,1,42,40-49,Female,Postgraduate,Full-time employed,Healthcare,7.5
+P0198,synthetic_ai,1,27,25-29,Male,Postgraduate,Full-time employed,Finance,7
+P0199,synthetic_ai,1,36,30-39,Male,Undergraduate,Full-time employed,Retail,6.5
+P0200,synthetic_ai,1,51,50-59,Female,Undergraduate,Full-time employed,Education,7.5
+P0201,synthetic_ai,1,22,21-24,Male,Undergraduate,Student,Education,5.5
+P0202,synthetic_ai,1,39,30-39,Female,Postgraduate,Full-time employed,Healthcare,7
+P0203,synthetic_ai,1,28,25-29,Female,Undergraduate,Full-time employed,Technology,6.5
+P0204,synthetic_ai,1,60,60+,Male,Diploma,Retired,Other,8.5
+P0205,synthetic_ai,1,32,30-39,Male,Postgraduate,Full-time employed,Research,6.5
+P0206,synthetic_ai,1,46,40-49,Female,Undergraduate,Full-time employed,Government,7
+P0207,synthetic_ai,1,19,18-20,Female,High school,Student,Education,6.5
+P0208,synthetic_ai,1,43,40-49,Male,Undergraduate,Full-time employed,Engineering,7
+P0209,synthetic_ai,1,25,25-29,Female,Postgraduate,Full-time employed,Healthcare,7
+P0210,synthetic_ai,1,70,60+,Female,Undergraduate,Retired,Other,8
+P0211,synthetic_ai,1,30,30-39,Male,Undergraduate,Full-time employed,Finance,7
+P0212,synthetic_ai,1,21,21-24,Female,Diploma,Part-time employed,Retail,5.5
+P0213,synthetic_ai,1,55,50-59,Male,Postgraduate,Full-time employed,Technology,7
+P0214,synthetic_ai,1,36,30-39,Female,Doctorate,Full-time employed,Research,7
+P0215,synthetic_ai,1,24,21-24,Male,Undergraduate,Student,Education,5.5
+P0216,synthetic_ai,1,48,40-49,Female,Postgraduate,Full-time employed,Healthcare,7.5
+P0217,synthetic_ai,1,27,25-29,Male,Diploma,Full-time employed,Manufacturing,6.5
+P0218,synthetic_ai,1,40,40-49,Male,Undergraduate,Full-time employed,Business,7
+P0219,synthetic_ai,1,33,30-39,Female,Undergraduate,Full-time employed,Healthcare,7
+P0220,synthetic_ai,1,58,50-59,Male,Postgraduate,Full-time employed,Government,7.5
+,,,,,,,,,
+P0221,synthetic_ai,1,23,21-24,Female,Undergraduate,Student,Education,6
+P0222,synthetic_ai,1,45,40-49,Male,Undergraduate,Full-time employed,Engineering,7
+P0223,synthetic_ai,1,29,25-29,Female,Postgraduate,Full-time employed,Finance,7
+P0224,synthetic_ai,1,64,60+,Female,Diploma,Retired,Other,8
+P0225,synthetic_ai,1,31,30-39,Male,Undergraduate,Full-time employed,Hospitality,6.5
+P0226,synthetic_ai,1,38,30-39,Female,Postgraduate,Full-time employed,Research,7
+P0227,synthetic_ai,1,19,18-20,Male,High school,Student,Education,6.5
+P0228,synthetic_ai,1,53,50-59,Female,Undergraduate,Homemaker/caregiver,Other,7.5
+P0229,synthetic_ai,1,26,25-29,Male,Undergraduate,Full-time employed,Technology,6.5
+P0230,synthetic_ai,1,42,40-49,Female,Undergraduate,Full-time employed,Healthcare,7
+P0231,synthetic_ai,1,20,18-20,Female,High school,Student,Education,6
+P0232,synthetic_ai,1,35,30-39,Male,Postgraduate,Freelancer,Technology,6.5
+P0233,synthetic_ai,1,60,60+,Female,Undergraduate,Retired,Other,8
+P0234,synthetic_ai,1,28,25-29,Female,Undergraduate,Full-time employed,Education,7
+P0235,synthetic_ai,1,47,40-49,Male,Postgraduate,Full-time employed,Technology,7
+P0236,synthetic_ai,1,22,21-24,Male,Diploma,Job seeker,Other,6.5
+P0237,synthetic_ai,1,54,50-59,Female,Postgraduate,Full-time employed,Healthcare,7.5
+P0238,synthetic_ai,1,30,30-39,Male,Undergraduate,Full-time employed,Finance,7
+P0239,synthetic_ai,1,37,30-39,Female,Undergraduate,Full-time employed,Retail,6.5
+P0240,synthetic_ai,1,25,25-29,Male,Undergraduate,Full-time employed,Government,6.5
+P0241,synthetic_ai,1,49,40-49,Female,Postgraduate,Full-time employed,Healthcare,7
+P0242,synthetic_ai,1,21,21-24,Male,Undergraduate,Student,Education,5.5
+P0243,synthetic_ai,1,44,40-49,Female,Undergraduate,Full-time employed,Government,7
+P0244,synthetic_ai,1,33,30-39,Male,Postgraduate,Full-time employed,Research,7
+P0245,synthetic_ai,1,26,25-29,Female,Undergraduate,Full-time employed,Technology,6.5
+P0246,synthetic_ai,1,57,50-59,Male,Undergraduate,Full-time employed,Manufacturing,7
+P0247,synthetic_ai,1,24,21-24,Female,Undergraduate,Part-time employed,Retail,5.5
+P0248,synthetic_ai,1,40,40-49,Male,Undergraduate,Full-time employed,Engineering,7
+P0249,synthetic_ai,1,67,60+,Male,High school,Retired,Other,8.5
+P0250,synthetic_ai,1,29,25-29,Female,Postgraduate,Full-time employed,Healthcare,7
+P0251,synthetic_ai,1,36,30-39,Male,Undergraduate,Full-time employed,Business,7
+P0252,synthetic_ai,1,20,18-20,Male,High school,Student,Education,6.5
+P0253,synthetic_ai,1,50,50-59,Female,Postgraduate,Full-time employed,Education,7.5
+P0254,synthetic_ai,1,27,25-29,Male,Undergraduate,Full-time employed,Engineering,7
+P0255,synthetic_ai,1,44,40-49,Female,Postgraduate,Full-time employed,Finance,7.5
+P0256,synthetic_ai,1,23,21-24,Male,Undergraduate,Student,Education,5.5
+P0257,synthetic_ai,1,38,30-39,Female,Postgraduate,Full-time employed,Technology,7
+P0258,synthetic_ai,1,62,60+,Male,Undergraduate,Retired,Other,8.5
+P0259,synthetic_ai,1,32,30-39,Female,Undergraduate,Self-employed,Creative,7
+P0260,synthetic_ai,1,18,18-20,Female,High school,Student,Education,6.5
+,,,,,,,,,
+P0261,synthetic_ai,1,41,40-49,Male,Postgraduate,Full-time employed,Technology,7
+P0262,synthetic_ai,1,28,25-29,Female,Postgraduate,Full-time employed,Finance,7
+P0263,synthetic_ai,1,24,21-24,Male,Undergraduate,Student,Education,5.5
+P0264,synthetic_ai,1,52,50-59,Female,Undergraduate,Full-time employed,Education,7.5
+P0265,synthetic_ai,1,35,30-39,Male,Undergraduate,Full-time employed,Retail,6.5
+P0266,synthetic_ai,1,68,60+,Female,High school,Retired,Other,8
+P0267,synthetic_ai,1,22,21-24,Female,Undergraduate,Student,Education,6
+P0268,synthetic_ai,1,46,40-49,Male,Undergraduate,Full-time employed,Manufacturing,7
+P0269,synthetic_ai,1,31,30-39,Female,Postgraduate,Self-employed,Creative,7
+P0270,synthetic_ai,1,59,50-59,Male,Postgraduate,Full-time employed,Technology,7
+P0271,synthetic_ai,1,26,25-29,Female,Undergraduate,Full-time employed,Healthcare,7
+P0272,synthetic_ai,1,43,40-49,Male,Doctoral,Full-time employed,Research,6.5
+P0273,synthetic_ai,1,19,18-20,Female,High school,Student,Education,6
+P0274,synthetic_ai,1,36,30-39,Male,Undergraduate,Full-time employed,Finance,7
+P0275,synthetic_ai,1,55,50-59,Female,Postgraduate,Full-time employed,Healthcare,7.5
+P0276,synthetic_ai,1,21,21-24,Male,Undergraduate,Student,Education,5.5
+P0277,synthetic_ai,1,47,40-49,Female,Postgraduate,Full-time employed,Finance,7.5
+P0278,synthetic_ai,1,30,30-39,Male,Undergraduate,Full-time employed,Technology,6.5
+P0279,synthetic_ai,1,63,60+,Female,Undergraduate,Retired,Other,8
+P0280,synthetic_ai,1,34,30-39,Female,Undergraduate,Freelancer,Creative,6.5
+P0281,synthetic_ai,1,25,25-29,Male,Diploma,Full-time employed,Hospitality,6.5
+P0282,synthetic_ai,1,49,40-49,Female,Postgraduate,Full-time employed,Healthcare,7
+P0283,synthetic_ai,1,29,25-29,Male,Postgraduate,Full-time employed,Finance,7
+P0284,synthetic_ai,1,39,30-39,Male,Doctorate,Full-time employed,Research,7
+P0285,synthetic_ai,1,20,18-20,Female,High school,Student,Education,6.5
+P0286,synthetic_ai,1,43,40-49,Male,Undergraduate,Full-time employed,Engineering,7
+P0287,synthetic_ai,1,56,50-59,Female,Undergraduate,Full-time employed,Education,7.5
+P0288,synthetic_ai,1,27,25-29,Male,Undergraduate,Full-time employed,Technology,6.5
+P0289,synthetic_ai,1,37,30-39,Female,Postgraduate,Full-time employed,Healthcare,7
+P0290,synthetic_ai,1,70,60+,Male,High school,Retired,Other,8.5
+P0291,synthetic_ai,1,33,30-39,Female,Undergraduate,Full-time employed,Business,7
+P0292,synthetic_ai,1,24,21-24,Male,Undergraduate,Job seeker,Other,6.5
+P0293,synthetic_ai,1,48,40-49,Female,Postgraduate,Full-time employed,Technology,7
+P0294,synthetic_ai,1,22,21-24,Female,Undergraduate,Student,Education,5.5
+P0295,synthetic_ai,1,40,40-49,Male,Doctorate,Full-time employed,Research,6.5
+P0296,synthetic_ai,1,54,50-59,Female,Postgraduate,Full-time employed,Healthcare,7.5
+P0297,synthetic_ai,1,26,25-29,Male,Undergraduate,Full-time employed,Government,6.5
+P0298,synthetic_ai,1,31,30-39,Female,Undergraduate,Full-time employed,Retail,6.5
+P0299,synthetic_ai,1,44,40-49,Male,Undergraduate,Full-time employed,Engineering,7
+P0300,synthetic_ai,1,61,60+,Female,Undergraduate,Retired,Other,8
